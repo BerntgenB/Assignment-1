@@ -1,0 +1,49 @@
+======================================================================
+ CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
+======================================================================
+ Status         : COMPLETE - all checks passed
+ GitHub user    : BerntgenB
+ Repository     : https://github.com/BerntgenB/Assignment-1
+ Commit         : 9c1a2f7  Initial commit
+ Commit author  : BerntgenB
+ Generated      : 2026-10-06 00:20:06
+
+ SELF CHECK
+======================================================================
+ CS 1430  -  ASSIGNMENT 1 SELF CHECK
+ 2026-10-06 00:20:06   BerntgenB
+======================================================================
+ [PASS] Python is installed                        3.14.8
+ [PASS] main.py is in this folder                  
+ [PASS] main.py runs without an error              
+ [PASS] The ASCII art is unchanged                 
+ [PASS] You added at least one print statement     1 added
+ [PASS] Your name shows up when the program runs   5 new lines of output
+ [PASS] Git is installed                           git version 2.56.0.windows.2
+ [PASS] This folder is a Git repository            
+ [PASS] You have made a commit                     "Initial commit"
+ [PASS] This repo points at GitHub                 github.com/BerntgenB/Assignment-1
+ [PASS] Your commit is pushed to GitHub            9c1a2f7
+======================================================================
+
+ WHAT YOUR PROGRAM PRINTED
+======================================================================
+
+ _______         __ __
+|   |   |.-----.|  |  |.-----.
+|       ||  -__||  |  ||  _  |__
+|___|___||_____||__|__||_____|  |
+                              |_|
+ ________              __     __ __
+|  |  |  |.-----.----.|  |.--|  |  |
+|  |  |  ||  _  |   _||  ||  _  |__|
+|________||_____|__|  |__||_____|__|
+
+CS 1430  |  Introduction to Python  |  UW-Platteville
+
+BBBB  RRRR   A   CCCC Y   Y N   N
+B   B R   R A A C     Y   Y NN  N
+BBBB  RRRR AAAAA C     Y Y  N N N
+B   B R R  A   A C      Y   N  NN
+BBBB  R  RR A   A  CCCC Y   N   N
+======================================================================
